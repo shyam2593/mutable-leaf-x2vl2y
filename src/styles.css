@@ -1,0 +1,10 @@
+.flex-container {
+  height: 100vh;
+}
+.input-container {
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid black;
+  height: 80vh;
+  position: relative;
+}
